@@ -1,0 +1,6 @@
+Anaconda python3.8.8 
+
+OS - Windows 10
+
+To create the Reddit API - https://www.reddit.com/prefs/apps
+

@@ -1,0 +1,54 @@
+Flow Chart
+===========
+
+Scarping the Dataset
+=====================
+
+1. Registering to Reddit API 
+2. Creating the APP for Client Id and Client Secret
+3. Using Reddit API for scarping the comment/ post relating to Schizophrenia and non - Schizophrenia
+4. Importing the Package
+5. Appending the Client Secret and ID to the variable
+6. Delcaring the type of sb-reddit comment
+7. Scarping the hot post 
+8. Appending the post to different variable
+9. Saving the dataframe to CSV
+
+Analysis and Classification
+============================
+
+1. Importing the packages
+2. Exploring the dataset 
+	- Mergeing All Dataset as one data 
+3. Data processing
+4. Visualization using seaborn & matplotlib
+5. Feature Selection 
+	- Count Vectorizer
+	- LIWC
+	- Keras Tokenizer
+7. Splitting the data to train and test
+8. Building the model - Machine Learning
+	- Random Forest
+	- Support Vector MAchine
+	- Logistic Regression
+	- Naive Bayes
+	- Voting Classifier
+	- Stacking Classifier - Boosting Ensemble
+	- DNN
+	- CNN
+	- LSTM
+	- GNN backbone of GRU
+	- CNN + LSTM
+10. Training the model
+11. Building the model with Voting Classifier gives better accuracy
+12. Flask Framework with Sqlite for signup and signin
+13. Importing the packages
+14. Exploring the dataset 
+15. Data processing
+16. User gives input
+17. The given input is translated and preprocessed for prediction
+18. Trained model is used for prediction
+19. Final outcome is displayed through frontend
+
+Extension -  Voting Classifier, Stacking Classifier and CNN + LSTM used as extension with proposed one 
+from which Voting Classifer gives better accuracy is used to build the ,model and save it from user prediction
